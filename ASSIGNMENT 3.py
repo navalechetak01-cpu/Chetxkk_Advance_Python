@@ -1,3 +1,5 @@
+#ONLINE PAYMENT BY STRATEGY METHOD:
+
 class Payment:
     
     def __init__(self, strategy):
