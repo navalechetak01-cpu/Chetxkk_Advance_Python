@@ -1,4 +1,4 @@
-#STUDENT REPORT:
+#STUDENT REPORT BY MAGIC,CLASS & DECODER METHOD:
 
 def add_border(func):
     def wrapper(self):
